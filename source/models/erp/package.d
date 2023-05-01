@@ -11,3 +11,7 @@ public import uim.models;
 public import models.erp.attributes;
 public import models.erp.elements;
 public import models.erp.entities;
+public import models.erp.usecases;
+public import models.erp.values;
+
+public import models.erp.tests;
